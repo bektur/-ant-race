@@ -6,6 +6,8 @@ This project is for paraller learning coding challenge https://parallellearning.
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
 # data is hardcoded in src/data.json file and read from there 
