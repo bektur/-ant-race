@@ -10,10 +10,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
-# data is hardcoded in src/data.json file and read from there 
+ data is hardcoded in src/data.json file and read from there 
 
-# Load button just loads the data 
+ Load button just loads the data 
 
-# Start button calculates the likelihood of winning for all. 
+ Start button calculates the likelihood of winning for all. 
 
 
